@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/Users/bipinsingh/Desktop/datewise/21-10-24/ICICI_395_GOLD_LOAN_DC_BACKEND/log/.edaaf8b8faa77c2ffa4ec625fa95744a2716541b-audit.json",
+    "files": [
+        {
+            "date": 1731393497294,
+            "name": "/Users/bipinsingh/Desktop/datewise/21-10-24/ICICI_395_GOLD_LOAN_DC_BACKEND/log/dash-2024-11-12.log",
+            "hash": "bc73b0b004f270ed5337476d21a836ab5e8a8e86f5843aeaf5f3057988729cd5"
+        },
+        {
+            "date": 1731497013599,
+            "name": "/Users/bipinsingh/Desktop/datewise/21-10-24/ICICI_395_GOLD_LOAN_DC_BACKEND/log/dash-2024-11-13.log",
+            "hash": "bc950389e1a17450cd5c5cdc3afcd30ffe312d4a3e6bd1d75e2e5ca06a6e5e8d"
+        }
+    ],
+    "hashType": "sha256"
+}
